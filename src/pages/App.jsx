@@ -1,0 +1,1 @@
+export default function App(){ return <div className='text-white bg-black min-h-screen p-10'>ROSO Site Scaffold Ready</div>; }
